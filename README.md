@@ -42,3 +42,9 @@ Being close to other groups is a trade-off in Terra Mystica. It gives the player
  
 * [Analysis Report](https://docs.google.com/document/d/1UMEBQpnrHA890xBxifXB6b-AmHTjraWwrTQumZbDI-k/edit?usp=sharing)
 * [Design Report](https://docs.google.com/document/d/1tONwujTnsuaXEhc0AiMnsHl97uPGQkcqzyiFJw9s5l0/edit?usp=sharing)
+* [Implementation Report]https://docs.google.com/document/d/1sQaOYxWCQzTzrv6P_8AS3Upi365a4NM4F4zbyyu8mrs/edit?usp=sharing)
+
+### **Presentations**
+
+* [First Presentation(Before Implementation)](https://docs.google.com/presentation/d/17oi-7aiZ5jHSoNIQfkDwPy9K8ImRI6j4bPfYcrPc3So/edit?usp=sharing)
+* [Final Presentation](https://docs.google.com/presentation/d/1hh1HTPHA2J5huXyA9-fOERIkht8JY4nT161Wrotsr7k/edit?usp=sharing)
